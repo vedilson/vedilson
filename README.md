@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<H1 align="center"> # Oi, eu sou o Vedilson! 👋</H1>
+<H1 align="center"> Oi, eu sou o Vedilson! 👋</H1>
 <div align="center"> 
 <img src="https://pa1.aminoapps.com/6591/d6ee5bb6208d2f8cd6920de191e2900721fffe72_00.gif" width="400"/><br>
 </div>

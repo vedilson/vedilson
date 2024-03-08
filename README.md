@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-Estou na área de tecnologia desde meus 16 anos, hoje estou focado no campo educacional e constantemente buscando novos desafios em Infraestrutura e Segurança. Atualmente, no SENAI/SP, ministro aulas de Redes de Computadore e IoT, Sistemas Operacionais e Banco de Dados no curso de Desenvolvimento de Sistemas oferecido aos alunos do SESI/SP.
+Estou na área de tecnologia desde meus 16 anos, hoje estou focado no campo educacional e constantemente buscando novos desafios em Infraestrutura e Segurança. Atualmente, no SENAI/SP, ministro aulas de Redes de Computadores e IoT, Sistemas Operacionais e Banco de Dados no curso de Desenvolvimento de Sistemas oferecido aos alunos do SESI/SP.
 
-No meu tempo livre (que é realmente muito), gosto de jogos, principalmente de estratégia, e ler um pouco. As vezes me aventuro na marcenaria e pescando em alto-mar.
+No meu tempo livre (que realmente não é muito), gosto de jogos, principalmente de estratégia, e ler um pouco. As vezes me aventuro na marcenaria e pescando em alto-mar.
   
 <div align="center"> 
   <img src="https://media.tenor.com/SWOvT6N7GhcAAAAM/fishing-fail-failarmy.gif" alt="Gif de pesca em alto-mar">

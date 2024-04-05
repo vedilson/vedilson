@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <H1 align="center"> Oi, eu sou o Vedilson! 👋</H1>
 <div align="center"> 
-<img src="https://i.pinimg.com/originals/1a/64/b6/1a64b6478237b189d0eef10ff5f2a412.gif" width="400"/><br>
+<!-- <img src="https://i.pinimg.com/originals/1a/64/b6/1a64b6478237b189d0eef10ff5f2a412.gif" width="400"/><br> -->
 </div>
 
 <p align="right">

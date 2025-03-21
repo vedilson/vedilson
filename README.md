@@ -9,14 +9,7 @@ Estou na área de tecnologia desde meus 16 anos, hoje estou focado no campo educ
 
 No meu tempo livre (que realmente não é muito), gosto de jogos, principalmente de estratégia, e ler um pouco. As vezes me aventuro na marcenaria e pescando em alto-mar.
   
-<div align="center">
-  <img src="https://media.tenor.com/SWOvT6N7GhcAAAAM/fishing-fail-failarmy.gif" alt="Gif de pesca em alto-mar">
-</div>
 
-
-<p align="right">
-<img src="https://views.whatilearened.today/views/github/vedilson/vedilson.svg"> <a href="https://github.com/vedilson/"><img src="https://img.shields.io/github/followers/vedilson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
 
 ## Experiências
 
@@ -28,55 +21,15 @@ No meu tempo livre (que realmente não é muito), gosto de jogos, principalmente
 - 💪 Voluntario na área de tecnologia na Etec Professor Elias Miguel Júnior
 
 ## Ferramentas e Tecnologias
+### 👨🏻‍💻 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎲 DB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 OS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☁️ Cloud &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☁️ Cloud &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔧 Ferramentas
 
-### 👨🏻‍💻 Linguagens:
-------
-#### 🟢 Backend
-
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,spring)](https://skillicons.dev)
-
-<br>
-
-<!-- #### 🟢 Frontend -->
-
-### 🏦 Banco de Dados:
-------
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-<br>
-
-### 💻 OS:
-------
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-
-<br>
-
-### ☁️ Cloud
-----
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-<br>
-
-### ☁️ Cloud
-----
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-<br>
-
-### 🔧Ferramentas
-------
-[![My Skills](https://skillicons.dev/icons?i=docker,grafana,raspberrypi,arduino)](https://skillicons.dev)
-
-<br><br>
-
-## 🟢 My Status
-[![GitHub Streak](https://streak-stats.demolab.com/?user=010O1010&theme=hacker&background=000&border=black&dates=)](https://git.io/streak-stats) <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedilson&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedilson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<br>
+![Java](https://skillicons.dev/icons?i=java,eclipse,spring) &nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=mysql) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=windows,linux) ![Java](https://skillicons.dev/icons?i=aws) ![Java](https://skillicons.dev/icons?i=git,github) ![Java](https://skillicons.dev/icons?i=docker,grafana,raspberrypi,arduino)
 
 # Contatos:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:vedilsonprado@gmail.com)[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vedilson)
-
+<p align="right">
+<img src="https://views.whatilearened.today/views/github/vedilson/vedilson.svg"> <a href="https://github.com/vedilson/"><img src="https://img.shields.io/github/followers/vedilson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+</p>
 <!--
 ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
 

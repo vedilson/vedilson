@@ -3,13 +3,9 @@
 <img src="https://i.pinimg.com/originals/1a/64/b6/1a64b6478237b189d0eef10ff5f2a412.gif" width="300"/><br>
 </div>
 
-
-
 Estou na área de tecnologia desde meus 16 anos, hoje estou focado no campo educacional e constantemente buscando novos desafios em Infraestrutura e Segurança. Atualmente, no SENAI/SP, ministro aulas de Redes de Computadores e IoT, Sistemas Operacionais e Banco de Dados no curso de Desenvolvimento de Sistemas oferecido aos alunos do SESI/SP.
 
 No meu tempo livre (que realmente não é muito), gosto de jogos, principalmente de estratégia, e ler um pouco. As vezes me aventuro na marcenaria e pescando em alto-mar.
-  
-
 
 ## Experiências
 
@@ -21,11 +17,11 @@ No meu tempo livre (que realmente não é muito), gosto de jogos, principalmente
 - 💪 Voluntario na área de tecnologia na Etec Professor Elias Miguel Júnior
 
 ## Ferramentas e Tecnologias
-### 👨🏻‍💻 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎲 DB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 OS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☁️ Cloud &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☁️ Cloud &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔧 Ferramentas
+### 👨🏻‍💻 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎲 DB &nbsp;&nbsp;&nbsp;&nbsp; 💻 OS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☁️ Cloud &nbsp;&nbsp;&nbsp; ☁️ Versionamento &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔧 Ferramentas
 
-![Java](https://skillicons.dev/icons?i=java,eclipse,spring) &nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=mysql) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=windows,linux) ![Java](https://skillicons.dev/icons?i=aws) ![Java](https://skillicons.dev/icons?i=git,github) ![Java](https://skillicons.dev/icons?i=docker,grafana,raspberrypi,arduino)
+![Java](https://skillicons.dev/icons?i=java,eclipse,spring) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=mysql) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; ![Java](https://skillicons.dev/icons?i=windows,linux) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://skillicons.dev/icons?i=aws) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=git,github) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=docker,grafana,raspberrypi,arduino)
 
-# Contatos:
+## Contatos:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:vedilsonprado@gmail.com)[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vedilson)
 <p align="right">
 <img src="https://views.whatilearened.today/views/github/vedilson/vedilson.svg"> <a href="https://github.com/vedilson/"><img src="https://img.shields.io/github/followers/vedilson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>

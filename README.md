@@ -17,11 +17,11 @@ No meu tempo livre (que realmente não é muito), gosto de jogos, principalmente
 - 💪 Voluntario na área de tecnologia na Etec Professor Elias Miguel Júnior
 
 ## Tecnologias e Ferramentas
-### 👨🏻‍💻 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎲 DB &nbsp;&nbsp;&nbsp;&nbsp; 💻 OS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☁️ Cloud &nbsp;&nbsp;&nbsp; ☁️ Versionamento
+### 👨🏻‍💻 Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎲 DB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 OS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☁️ Cloud &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☁️ Versionamento
 
 ![Java](https://skillicons.dev/icons?i=java,eclipse,spring) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=mysql) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; ![Java](https://skillicons.dev/icons?i=windows,linux) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://skillicons.dev/icons?i=aws) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://skillicons.dev/icons?i=git,github) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-🔧 Ferramentas
+## 🔧 Ferramentas
 
 ![Java](https://skillicons.dev/icons?i=docker,grafana,raspberrypi,arduino)
 

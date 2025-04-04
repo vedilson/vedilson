@@ -1,34 +1,37 @@
 # Oi, eu sou o Vedilson! 👋
-<div align="center"> 
-<img src="https://i.pinimg.com/originals/1a/64/b6/1a64b6478237b189d0eef10ff5f2a412.gif" width="300"/><br>
-</div>
 
-Estou na área de tecnologia desde meus 16 anos, hoje estou focado no campo educacional e constantemente buscando novos desafios em Infraestrutura e Segurança. Atualmente, no SENAI/SP, ministro aulas de Redes de Computadores e IoT, Sistemas Operacionais e Banco de Dados no curso de Desenvolvimento de Sistemas oferecido aos alunos do SESI/SP.
+💻 Comecei na tecnologia aos 16 anos, meio sem planejar, e acabei me apaixonando pela área. Já passei por suporte, monitoramento e infraestrutura, mas hoje meu foco é ensinar. Sou instrutor no SENAI/SP, ajudando alunos a desbravarem o mundo da técnologia Redes de Computadores, IoT, Banco de Dados e Backend.
 
-No meu tempo livre (que realmente não é muito), gosto de jogos, principalmente de estratégia, e ler um pouco. As vezes me aventuro na marcenaria e pescando em alto-mar.
+🔥 Minha praia é Java, automação e infraestrutura, sempre buscando soluções diretas e eficientes. No GitHub, compartilho projetos educacionais e exploro novas tecnologias.
 
-## Experiências
+🕹️ Fora do código, gosto de jogos de estratégia, pesca em alto-mar e, de vez em quando, me aventuro na marcenaria.
 
-- 👩‍🏫 Instrutor SENAI - Dev Sistemas
-- 📚 Formado em Redes de Computadores pela ESAMC Sorocaba
-- 📚 Pós-graduado em Analise de Dados e Segurança da Informação
-- 💻 Colaborador do Grupo AFINZ na área de tecnologia (Analista de Suporte, Analista de Infraestrutura, Analista de Monitoramento)
-- 📚 Formado em Técnico de Redes de Computadores pela Etec Professor Elias Miguel Júnior
-- 💪 Voluntario na área de tecnologia na Etec Professor Elias Miguel Júnior
 
-## Tecnologias e Ferramentas
+## 🚀 Sobre mim:
+
+- 👩‍🏫 Professor de programação e tecnologia no SENAI Sorocaba
+- 🎓 Formado em Redes de Computadores pela ESAMC Sorocaba
+- 📖 Pós-graduado em Analise de Dados e Segurança da Informação
+- 📒 Formado em Técnico de Redes de Computadores pela Etec Professor Elias Miguel Júnior
+- 🫱🏻‍🫲🏻 Voluntario na área de tecnologia na Etec Professor Elias Miguel Júnior
+- 🔍 Explorando novas tecnologias quando sobra um tempo
+
+
+## 🛠️ Tecnologias e Ferramentas
 ![Java](https://skillicons.dev/icons?i=java,eclipse,spring) ![Java](https://skillicons.dev/icons?i=mysql) ![Java](https://skillicons.dev/icons?i=windows,linux) ![Java](https://skillicons.dev/icons?i=aws) ![Java](https://skillicons.dev/icons?i=git,github) ![Java](https://skillicons.dev/icons?i=docker,grafana,raspberrypi,arduino)
 
-## Contatos:
+  <img height="180em" width="415em" src="https://github-readme-stats.vercel.app/api?username=vedilson&show_icons=true&theme=tokyonight&include_all_commits=true"/> <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedilson&layout=compact&langs_count=7&theme=tokyonight"/>
+
+
+## 📬 Contatos:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:vedilsonprado@gmail.com)[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vedilson)
 <p align="right">
 <img src="https://views.whatilearened.today/views/github/vedilson/vedilson.svg"> <a href="https://github.com/vedilson/"><img src="https://img.shields.io/github/followers/vedilson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
+
 <!--
-![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
-
  ## Estou aprendendo
-
+![snake animation](https://github.com/vedilson/vedilson/blob/output/github-contribution-grid-snake2.svg)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> 
 ## Conteúdos
 

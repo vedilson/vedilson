@@ -29,6 +29,7 @@
 <img src="https://views.whatilearened.today/views/github/vedilson/vedilson.svg"> <a href="https://github.com/vedilson/"><img src="https://img.shields.io/github/followers/vedilson?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 
+![snake gif](https://github.com/vedilson/vedilson/blob/output/github-contribution-grid-snake.svg)
 <!--
  ## Estou aprendendo
 ![snake animation](https://github.com/vedilson/vedilson/blob/output/github-contribution-grid-snake2.svg)
